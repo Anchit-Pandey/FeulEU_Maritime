@@ -191,7 +191,7 @@ Allows pooling of ships and validates that the total adjusted CB sum ≥ 0, high
 
 **Pushkar Bopanwar**  
 M.Tech — Computer Science & Engineering, NIT Rourkela  
-GitHub: [@Anchit](https://github.com/pushkar1371)
+GitHub: [@Anchit](https://github.com/Anchit-Pandey)
 
 ---
 
